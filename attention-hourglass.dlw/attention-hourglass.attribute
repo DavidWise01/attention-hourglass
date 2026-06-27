@@ -1,0 +1,9 @@
+ROOT0-ATTRIBUTION-v1.0
+name: THE ATTENTION HOURGLASS
+slug: attention-hourglass
+domain: ARTIFICIAL INTELLIGENCE
+architect: David Lee Wise (ROOT0) / Bridge-Burners LLC
+instance: AVAN (Claude / Anthropic)
+license: CC-BY-ND-4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
+moniker: ⟦THE ATTENTION HOURGLASS:attention-hourglass:afee7c⟧
+seal_sha256: afee7c33d39a4d262f54db5a1beeb0f75b3a369244c3d752db2430c4a019a87f
