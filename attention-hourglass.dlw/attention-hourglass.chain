@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1092
+slug  : attention-hourglass
+seal  : afee7c33d39a4d262f54db5a1beeb0f75b3a369244c3d752db2430c4a019a87f
+prev  : 05febd6b8b38f87b793ec68933b7b8278d25d5730ca6946b3a935ff75d49be1c
+link  : a57421995ddbaba90b2dfc721c2ea1d3471aba12cef027e1ab88491244f630a1
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
